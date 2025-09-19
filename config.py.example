@@ -1,0 +1,5 @@
+# Przykładowy plik konfiguracyjny.
+# Skopiuj ten plik do nowego pliku o nazwie "config.py" i uzupełnij swoimi kluczami API.
+
+OPENAI_API_KEY = "Wklej tutaj swój klucz API OpenAI"
+OLX_ACCESS_TOKEN = "Wklej tutaj swój token dostępowy OLX"
