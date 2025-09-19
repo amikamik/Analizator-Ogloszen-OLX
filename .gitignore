@@ -1,0 +1,11 @@
+# Pliki konfiguracyjne z kluczami
+config.py
+*.env
+
+# Foldery środowiska wirtualnego
+venv/
+.venv/
+
+# Cache i pliki tymczasowe Pythona
+__pycache__/
+*.pyc
